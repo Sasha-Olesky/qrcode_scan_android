@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <!-- background yellow color -->
+    <color name="yellowBack">#FFDD01</color>
+    <color name="light_yellow_back">#FDE3BE</color>
+
+    <!-- tabBar selected cololr-->
+    <color name="tab_selected_color">#6F7179</color>
+    <color name="light_gray_color">#878787</color>
+    <!--  zxing -->
+    <color name="viewfinder_frame">#3AC814</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_laser">#E9E9E9</color>
+    <color name="bar_color">#232325</color>
+
+    <color name="grey">#fff5f5f5</color>
+    <color name="gray">#ff808080</color>
+    <!-- end zxing -->
+
+    <!-- crash -->
+    <color name="crash_status_normal">#D9D9D9</color>
+    <color name="crash_status_waiting">#2094C0</color>
+
+</resources>
